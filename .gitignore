@@ -1,0 +1,17 @@
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+backend/storage/uploads/
+backend/storage/exports/
+backend/storage/stems/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# macOS / OS
+.DS_Store
+*.log

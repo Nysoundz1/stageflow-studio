@@ -1,0 +1,10 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+numpy>=1.24.0
+scipy>=1.10.0
+soundfile>=0.12.1
+librosa>=0.10.1
+# Note: demucs (HTDemucs) is supported dynamically when installed in the environment;
+# fallback DSP/stem separator and multi-stem synthesizer are active out-of-the-box.
+
